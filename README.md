@@ -5,6 +5,11 @@ This is a simple assembly program written for x86_64 Linux environments.
 It prompts the user to enter their name and age, then prints the entered information back to the console.
 The program demonstrates basic input/output operations using Linux syscalls and simple string handling in assembly language.
 
+Expected output:
+
+![Captura de tela 2025-07-05 051301](https://github.com/user-attachments/assets/2d99f8b2-4ae2-4496-9632-26548a98e65b)
+
+
 How to Build and Run
 
 This project uses NASM and ld on a Linux environment.
