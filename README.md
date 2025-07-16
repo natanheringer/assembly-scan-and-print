@@ -52,5 +52,3 @@ Compile o programa executando o script:
 Execute o programa:
 
 ./print-data
-
-Let me know if you want it in any other format!
